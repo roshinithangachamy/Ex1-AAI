@@ -25,7 +25,7 @@ Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
 
 ## Program:
 
-''' 
+```
 pip install python
 
 from google.colab import drive
@@ -133,7 +133,7 @@ rain_cpt = pd.crosstab(
 
 print(rain_cpt.round(4))
 
-'''
+```
 ## Output:
 <img width="635" height="640" alt="714339039-1fea9b1a-38cb-4065-9f63-18698d3320be" src="https://github.com/user-attachments/assets/74616748-364b-4a9d-b179-fbcf250a867c" />
 <img width="690" height="455" alt="714339638-9cdf60a8-4130-47b3-a2bd-696d44390791" src="https://github.com/user-attachments/assets/0a7eb280-5750-4cf5-a6e4-b49664d55bf1" />
